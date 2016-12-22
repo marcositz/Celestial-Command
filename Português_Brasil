@@ -1,0 +1,433 @@
+
+#0# Iniciar Servidor
+#1# Entrar no Multiplayer
+#2# Opções
+#3# Desenvolvedores
+#4# Sair
+#5# Continuar
+#6# Pausar
+#7# Opções
+#8# Salvar
+#9# Sair
+#10# Renascer
+#11# Acesso Antecipado
+#12# O jogo não está pronto ainda mas esta com o desenvolvimento muito ativo. Visite o blog de desenvolvimento na Central da Comunidade Steam para ter mais informações
+#13# Notícias
+#14# Discussões
+#15# Guias
+#16# Lista de tarefas
+#17# Você tem certeza?
+#18# Sair
+#19# Voltar
+#20# Diretamente Conectado
+#21# Steam Connect (em breve)
+#22# Desenvolvedores
+#23# O jogo é desenvolvido por três amigos apelidados de Artaani, Riya e Romenics. Visite nosso blog de desenvolvimento na Central da Comunidade Steam para mais informações
+#24# Salvar
+#25# Padrão
+#26# Aplicar
+#27# ÁUDIO
+#28# Total
+#29# Música
+#30# JOGO
+#31# Exibir Ajuda
+#32# Mostrar hora no chat
+#33# Modo Sandbox
+#34# Inverter botões do mouse
+#35# Intervalo para salvamento automático 
+#36# GRÁFICO
+#37# Tela Cheia
+#38# Qualidade das Texturas
+#39# Anti-Aliasing
+#40# V-sync
+#41# Resolução
+#42# Aperte qualquer tecla para definir ou ESC para sair
+#43# Salvar
+#44# Padrão
+#45# ATALHOS
+#46# SELECIONE O MUNDO
+#47# Nome
+#48# JOGOS SALVOS
+#49# HORA DO JOGO
+#50# VERSÃO
+#51# CRIAR MUNDO
+#52# Confirmar remoção do mundo
+#53# Voltar
+#54# Deletar
+#55# PORTA
+#56# Senha
+#57# MÁXIMO DE JOGADORES
+#58# DELETAR
+#59# CARREGAR
+#60# CARREGANDO
+#61# Conectando...
+#62# NOME DO MUNDO 
+#63# PORTA
+#64# SENHA
+#65# MAX DE JOGADORES
+#66# MODO SANDBOX
+#67# QUANTIDADE DE ESTAÇÕES
+#68# QUANTIDADE DE INIMIGOS
+#69# QUANTIDADE DE ASTEROIDES
+#70# NOVO MUNDO
+#71# VOLTAR
+#72# INICIAR JOGO
+#73# Entrar no Multiplayer
+#74# IP
+#75# Porta
+#76# Senha
+#77# Entrar
+#78# Selecione o Servidor
+#79# Adicionar aos Favoritos
+#80# Confirmar Remoção do Servidor
+#81# Voltar
+#82# Nome
+#83# IP
+#84# Porta
+#85# Senha
+#86# Deletar
+#87# Entrar
+#88# Salvar
+#89# Editar
+#90# Idioma
+#91# Pausar
+#92# Travar Rotação
+#93# Resetar Pan
+#94# Velocidade Local
+#95# Grade
+#96# Negociar
+#97# CONSTRUIR
+#98# DESCONSTRUIR
+#99# FERRAMENTAS SANDBOX
+#100# ADICIONAR RECURSOS
+#101# Oxigênio
+#102# Hidrogênio
+#103# Xenônio
+#104# Míssil
+#105# Energia
+#106# Alimento
+#107# Tripulação
+#108# IA
+#109# Duplicar nave selecionada
+#110# Definir facção para amigo
+#111# Definir facção para inimigo
+#112# Criar nave inimiga
+#113# Adicionar IA para a nave
+#114# Piloto Automático
+#115# FÍSICA
+#116# Remover nave selecionada
+#117# Desativar mecânicas orbitais
+#118# Colocar o planejador de trajetória
+#119# Modo de Lançamento de Detritos
+#120# Aplicar
+#121# Descartar
+#122# Pressione qualquer tecla
+#123# Definir novo atalho
+#124# Distância
+#125# Velocidade relativa
+#126# Jogador
+#127# Latência
+#128# Módulos Avaliados
+#129# Armazenamentos
+#130# Produção
+#131# Energia
+#132# Variados
+#133# Armas
+#134# Torretas
+#135# Propulsão
+#136# Informação de Membro da Tripulação
+#137# Saúde
+#138# Alimento
+#139# Moral
+#140# COMEÇANDO O JOGO
+#141# Como o tutorial ainda não esta pronto, aconselhamos que você leia esse guia de um membro da comunidade
+#142# ABRIR GUIA
+#143# NEGOCIAÇÃO
+#144# NOME
+#145# QUANTIDADE
+#146# PREÇO
+#147# DEMANDA
+#148# SUPRIMENTO
+#149# NAVE ANTERIOR
+#150# PRÓXIMA NAVE
+#151# MASSA TOTAL  
+#152# MOMENTO DE INÉRCIA
+#153# MASSA DO MÓDULO
+#154# Não conectado a um suprimento de energia
+#155# Consumo de energia
+#156# Desacoplar
+#157# Acoplar
+#158# Arraste para Transferir
+#159# Botão Direito: Vender
+#160# Comprar: Arraste até um Armazenamento
+#161# Solte para transferir
+#162# Segure SHIFT para especificar a quantidade
+#163# Solte para comprar
+#164# O tipo de armazenamento não confere (Líquido / Sólido)
+#165# CTRL+Botão Direito - Desconstruir
+#166# Botão Direito - Reparar
+#167# Botão Direito - Construir
+#168# Botão Direito - mostrar conteúdo
+#169# Botão Direito - Definir hotkey
+#170# Massa
+#171# ejetar
+#172# Botão Direito
+#173# Resetar hotkey
+#174# CTRL + Botão Direito - Desconstruir
+#175# CTRL + Botão Direito - Desconstruir
+#176# Carbono
+#177# Alumínio
+#178# Silicone
+#179# Prata
+#180# Titânio
+#181# Ferro
+#182# Cobalto
+#183# Nickel
+#184# Cobre
+#185# Niobium
+#186# Oxigênio
+#187# Hidrogênio
+#188# Xenônio
+#189# Gelo
+#190# Fullerite
+#191# Deuterium
+#192# Urânio
+#193# Míssil
+#194# Energia
+#195# Alimento
+#196# Não há recurso com o nome
+#197# Não é possível abrir o menu de construção
+#198# A nave atual não tem a baía de engenharia
+#199# Sem alimentos
+#200# não se pode encontrar nenhuma comida na nave!
+#201# Morte por fome
+#202# morreu de fome!
+#203# Atenção
+#204# O último modulo de comando não pode ser descontruido
+#205# Movimentação automática desligada devido a controle manual
+#206# Warp drive ainda não esta pronto
+#207# Não pode disparar
+#208# Lançador de Misseis não esta conectado ao compartimento de munição
+#209# Não pode disparar
+#210# Sem munição no compartimento conectado
+#211# Piloto Automático - Ativado
+#212# Piloto Automático - Desativado
+#213# Selecione uma nave
+#214# Nenhum objeto selecionado
+#215# Selecione uma nave
+#216# Selecione um objeto
+#217# Atalhos:
+#218# Nomes de Atalhos:
+#219# Esquerda:
+#220# Apenas o servidor pode fazer isso
+#221# Jogo salvo
+#222# ERRO AO SALVAR
+#223# Não foi possível salvar devido a um erro interno.
+#224# Créditos insuficientes
+#225# Naves devem estar acopladas
+#226# Armazenamento esta fazio
+#227# This trader does not demand
+#228# Não se pode vender. Armazenamento esta cheio
+#229# unidades de
+#230# foram vendidas por
+#231# unidades de
+#232# foram compradas por
+#233# Créditos insuficientes:
+#234# sucateado
+#235# Sem espaço suficiente para sucata
+#236# Fatores
+#237# Massa da Estrela
+#238# Massa do Planeta
+#239# Impulso do Motor
+#240# Consumo de Combustível
+#241# Torque da Roda de Reação
+#242# PARÂMETROS ORBITAIS
+#243# Trajetória
+#244# Posição
+#245# Apoapsis
+#246# Periapsis
+#247# Excentricidade
+#248# Período Orbital
+#249# Velocidade Tang.
+#250# Velocidade Ang.
+#251# Menu de construção
+#252# Desconstruir módulo selecionado
+#253# Trocar controle para a nave disponível anterior
+#254# Trocar controle para a próxima nave disponível
+#255# Resetar escala de tempo
+#256# Reduzir escala de tempo
+#257# Aumentar escala de tempo
+#258# Mostrar Armazenamentos
+#259# Exibe o conteúdo de todos os contêineres de armazenamento da nave atual. É possível mover conteúdo entre contêineres arrastando-os com o botão esquerdo do mouse. Segurando Shift-Esquerda você pode transferir uma quantidade específica de recursos.
+#260# Exibe a tripulação da nave atual. Tripulantes podem ser movidos arrastando-os.
+#261# Mostrar Conectores
+#262# Exibe conectores de recursos para a nave atual. Se um módulo exigir recursos específicos, estes devem ser conectados utilizando este modo. Conectores podem ser fixados a módulos arrastando-os. 
+#263# Pontos de Montagem
+#264# Exibe pontos de montagem para a nave atual. Pontos de montagem podem ser conectados ou desconectados com um clique esquerdo.
+#265# Exibe o centro de massa da nave atual
+#266# Trava RCS
+#267# Estabiliza a rotação da nave utilizando seus propulsores
+#268# Se ativado - selecione sua nave e clique com o botão direito para enviar uma ordem de movimento
+#269# Mostrar barras de HP
+#270# Temporariamente exibe a integridade da nave
+#271# Trava de rotação
+#272# Alinha a rotação da câmera com o objeto observado
+#273# Focar visão
+#274# Foca a visão no objeto selecionado
+#275# Resetar câmera
+#276# Reseta a posição da câmera para focar no objeto selecionado
+#277# Mostrar velocidade
+#278# Exibe velocidade (laranja) e direção (branca) em relação ao objeto selecionado
+#279# Mostrar grade
+#280# Exibe uma grade retangular relativa à estrela
+#281# Energia atual
+#282# Capacidade máxima de energia
+#283# Entrada de energia
+#284# Saída de energia
+#285# Combinação da entrada e saída de energia
+#286# Quantidade total de hidrogênio
+#287# Quantidade total de oxigênio
+#288# Exibe parâmetros orbitais do objeto selecionado
+#289# Facção
+#290# Renomear nave
+#291# Massa total da estrutura
+#292# Este valor determina quanta força é necessária para rotacionar a nave. Para reduzir este valor, os módulos mais pesados devem ser localizados próximo ao centro de massa,
+#293# Incluindo a massa do conteúdo caso seja uma baia ou contêiner de carga
+#294# Integridade estrutural
+#295# Habilita \ desabilita controle manual para o grupo de armas selecionado. Aperte segurando Shift Esquerda para controle automático. 
+#296# Enche o armazenamento selecionado com Oxigênio
+#297# Enche o armazenamento selecionado com Hidrogênio
+#298# Enche o armazenamento selecionado com Xenônio
+#299# Enche o armazenamento selecionado com foguetes
+#300# Enche o armazenamento selecionado com munições
+#301# Carrega completamente o Armazenador de Energia selecionado
+#302# Enche o armazenamento selecionado com alimentos
+#303# Adiciona tripulante ao módulo selecionado
+#304# Cria uma nave inimiga em um ponto aleatório ao redor do planeta inicial que atacará a nave do jogador automaticamente.
+#305# Adiciona uma Inteligência Artificial à nave selecionada com a facção aliada. A nave seguirá a nave do jogador.
+#306# A nave voará automaticamente ao objeto selecionado. Um segundo clique desliga o piloto automático.
+#307# Remover completamente a nave ou asteroide
+#308# ATENÇÃO - Esta ação não pode ser desfeita se ativada para o mundo atual. Desabilitará a gravidade para todos os objetos (somente para fins de teste).
+#309# (Funcionalidade incompleta) Aperte o botão e clique em algum lugar no espaço para criar um planejador orbital. Nódulos de posição e velocidade podem ser arrastados com botão esquerdo. O botão direito remove o nódulo.
+#310# Se ativo, ao clicar com o botão esquerdo do mouse em algum lugar do espaço criará um detrito. Shift+Clique lançará o detrito com uma velocidade aleatória.
+#311# Comerciante disposto a COMPRAR estes bens
+#312# Comerciante disposto a VENDER estes bens
+#313# Mudar nome
+#314# Mudar patente
+#315# Atributo incompleto
+#316# Tripulantes automaticamente consumirão alimentos de qualquer contêiner quando este valor estiver abaixo de 75% (valor reduzido em 25% a cada 2 minutos)
+#317# Atributo incompleto
+#318# Encher armazenamento selecionado de Hidrogênio
+#319# Adicionar tripulante ao módulo selecionado
+#320# Abre a interface de comércio. (NOTA: Para negociar com uma estação, a interface deve estar aberta, sua nave deve estar docada à estação e ambas as portas de docagem devem estar ativadas. Para comprar algo da estação, abra a interface de carga e então arraste os bens desejados da estação para o seu contêiner. Para vender algo, clique com o botão direito nos bens no seu contêiner)
+#321# Abre o menu de construção fornecido pelo estaleiro selecionado. Enquanto sua nave estiver dentro do estaleiro, você pode comprar e vender módulos por créditos.
+#322# Estado da trajetória
+#323# Posição relativa ao planeta ou estrela
+#324# Distância do centro do planeta ao ponto mais distante na órbita
+#325# Distância do centro do planeta ao ponto mais próximo na órbita
+#326# A excentricidade define o formato da órbita. (e=0) círculo) (0<e<1) elipse (e=1) parábola (e>1) hipérbole
+#327# O período orbital é o tempo durante o qual um objeto faz uma volta ao redor de sua órbita
+#328# Velocidade angular (em graus por segundo)
+#329# PARÂMETROS ORBITAIS
+#330# Contêiner de carga 2
+#331# Contêiner de carga 1
+#332# Propulsor Químico
+#333# Contêiner de Líquidos 1
+#334# Reator Nuclear
+#335# Acumulador de Energia
+#336# Baia de Engenharia
+#337# Radar
+#338# Painéis Solares
+#339# Plataforma de Torretas 1
+#340# Plataforma de Torretas 2
+#341# Canhão de Energia
+#342# Canhão Balístico 1
+#343# Junção de 4 Corredores
+#344# Laser 1
+#345# Minerador
+#346# Contêiner de Líquidos 2
+#347# Contêiner de carga 3
+#348# Porta de Docagem
+#349# Garra
+#350# Laser 2
+#351# Gerador de Combustível
+#352# Canhão Balístico 2
+#353# Corredor
+#354# Junção de 3 Corredores
+#355# Módulo de Comando
+#356# Curva de Corredor
+#357# Roda de Reação
+#358# Dobrador Espacial
+#359# Adaptador Estrutural 2x1
+#360# Propulsor de RCS
+#361# Contêiner de Líquidos 3
+#362# Laser de Mineração
+#363# Contêiner de Líquidos 4
+#364# Módulo de Comando 2
+#365# Gerador de Escudo
+#366# Portão de Carga
+#367# Raio Trator
+#368# Propulsor Iônico
+#369# Viga Estrutural
+#370# Lançador de Foguetes
+#371# Adaptador 2x1
+#372# Estaleiro
+#373# Estufa Hidropônica
+#374# Estaleiro
+#375# Docagem
+#376# Comércio
+#377# Missões
+#378# Exibir missões disponíveis
+#379# Solicitar docagem
+#380# Detrito
+#381# ATIVE UMA FACÇÃO PARA A NAVE DUPLICADA
+#382# Aliado
+#383# Inimigo
+#384# Não mude a facção
+#385# A próxima nave duplicada terá a mesma facção do nave original
+#386# Próxima nave duplicada terá facção aliada
+#387# Próxima nave duplicada terá facção inimiga
+#388# Asteroide
+#389# FERRAMENTA DE PINTURA
+#390# Selecionar módulo para pintar
+#391# Clique esquerdo - Pintura
+#392# NAVES SALVAS
+#393# Salvar nave
+#394# Nenhuma nave selecionada
+#395# Nave salva
+#396# Clique para colocar uma nave
+#397# Ctrl + clique esquerdo - escolha a cor
+#398# Predefinições
+#399# Nome do arquivo
+#400# já existe
+#401# Renomear
+#402# Substituir
+#403# Insira o nome do arquivo
+#404# O nave não pode ser encontrado
+#405# Pintura após a construção
+#406# Escolha a cor
+#407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
+#408# Mostrar missões aceitas
+#409# Discord chat
+#410# O campo Warp foi colapsado devido a um obstáculo denso
+#411# Mostrar equipe
+#412# Mostrar centro de massa
+#413# Controle pelo cursor
+#414# Bloquear ângulo de visão
+#415# Missões aceitas
+#416# Mostrar parâmetros orbitais
+#417# Ferramenta de pintura
+#418# Carregar nave
+#419# Pin trajectory
+#420# Build menu
+#421# Desconstruir
+#422# Compensar rotação
+#423# Rotor
+#424# Parte do rotor
+#425# Pistão
+#426# Peça de pistão
+#427# Não mostrar novamente
+#428# Não é possível salvar
+#429# Selecione uma nave
+#430# Por favor, selecione um módulo de comando do nave.
+#431# SELECIONE UMA NAVE
