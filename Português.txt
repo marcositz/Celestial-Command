@@ -380,54 +380,54 @@
 #378# Exibir missões disponíveis
 #379# Solicitar docagem
 #380# Detrito
-#381# SET NEW FACTION FOR DUPLICATED SHIP
-#382# Ally
-#383# Enemy
-#384# Do not change the faction
-#385# Next duplicated ship will have the same faction as original ship
-#386# Next duplicated ship will have ally faction
-#387# Next duplicated ship will have enemy faction
-#388# Asteroid
-#389# PAINT TOOL
-#390# Select module to paint
-#391# Left Click - Paint
-#392# SAVED SHIPS
-#393# Save Ship
-#394# No ship selected
-#395# Ship saved
-#396# Click to place a ship
-#397# Ctrl + Left Click - Pick color
-#398# Presets
-#399# File name
-#400# already exist
-#401# Rename
-#402# Overwrite
-#403# Enter file name
-#404# The ship can't be found
-#405# Paint after construction
-#406# Pick color
-#407# Pin trajectory. Trajectory will be displayed even when this window will be closed.
-#408# Show accepted missions
-#409# Discord chat
-#410# Warp field has been collapsed due dense obstacle
-#411# Show crew
-#412# Show center of mass
-#413# Control by cursor
-#414# Lock view angle
-#415# Accepted missions
-#416# Show orbital parameters
-#417# Paint tool
-#418# Load ship
-#419# Pin trajectory
-#420# Build menu
-#421# Deconstruct
-#422# Compensate rotation
-#423# Rotor
-#424# Rotor Part
-#425# Piston
-#426# Piston Part
-#427# Don't show again
-#428# Unable to save
-#429# Please select a ship
-#430# Please selected a command module of the ship
-#431# SELECT A SHIP
+381# DEFINIR NOVA FACÇÃO PARA NAVE DUPLICADA
+382# Aliado
+383# Inimigo
+384# Não alterar a facção
+385# A próxima nave duplicada terá a mesma facção da nave original
+386# A próxima nave duplicada terá facção aliada
+387# A próxima nave duplicada terá facção inimiga
+388# Asteroide
+389# FERRAMENTA DE PINTURA
+390# Selecione o módulo para pintar
+391# Clique Esquerdo - Pintar
+392# NAVES SALVAS
+393# Salvar Nave
+394# Nenhuma nave selecionada
+395# Nave salva
+396# Clique para posicionar uma nave
+397# Ctrl + Clique Esquerdo - Pegar cor
+398# Predefinições
+399# Nome do arquivo
+400# já existe
+401# Renomear
+402# Substituir
+403# Digite o nome do arquivo
+404# A nave não pode ser encontrada
+405# Pintar após construção
+406# Pegar cor
+407# Fixar trajetória. A trajetória será exibida mesmo quando esta janela for fechada.
+408# Mostrar missões aceitas
+409# Chat do Discord
+410# O campo de dobra foi colapsado devido a obstáculo denso
+411# Mostrar tripulação
+412# Mostrar centro de massa
+413# Controlar por cursor
+414# Travar ângulo de visão
+415# Missões aceitas
+416# Mostrar parâmetros orbitais
+417# Ferramenta de pintura
+418# Carregar nave
+419# Fixar trajetória
+420# Menu de construção
+421# Desconstruir
+422# Compensar rotação
+423# Rotor
+424# Parte do Rotor
+425# Pistão
+426# Parte do Pistão
+427# Não mostrar novamente
+428# Não foi possível salvar
+429# Por favor, selecione uma nave
+430# Por favor, selecione um módulo de comando da nave
+431# SELECIONE UMA NAVE
